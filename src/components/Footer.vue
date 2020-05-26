@@ -30,7 +30,7 @@
 
         
         <div>
-            <input type="email" id="email" name="email" placeholder="Updates in your inbox...">
+            <input type="email" id="email" name="email" aria-label="Update" placeholder="Updates in your inbox...">
             <input type="submit" value="Go" id="submit" for="email">
         </div>
 

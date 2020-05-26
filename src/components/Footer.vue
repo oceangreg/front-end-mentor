@@ -31,7 +31,7 @@
         
         <div>
             <input type="email" id="email" name="email" placeholder="Updates in your inbox...">
-            <input type="submit" value="Go" id="submit">
+            <input type="submit" value="Go" id="submit" for="email">
         </div>
 
     </div>

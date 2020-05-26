@@ -192,6 +192,13 @@ padding-bottom:50px;
     padding:0
 }
 
+.middleP {
+    max-width: 400px;
+    width: 100%;
+    margin: 20px 0;
+    text-align: left;
+}
+
 ul {
     padding:0px 0px 0px 40px;
 }

@@ -15,7 +15,7 @@
 
       <div>
 
-          <img src="../assets/img/illustration-intro.svg">
+          <img src="../assets/img/illustration-intro.svg" alt="hero ullustration" >
 
       </div>
 
